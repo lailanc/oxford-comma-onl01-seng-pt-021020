@@ -12,7 +12,5 @@ def oxford_comma(array)
     array_copy[-1] = "and #{array_copy[-1]}"
     array_copy.join(', ')
   end
-end
-  
 
 end
